@@ -1,0 +1,2 @@
+unzip("activity.zip")
+data <-read.csv("activity.csv")
